@@ -1,7 +1,6 @@
 # Japanese Release Note Generator
 
 ## 初めに
-これh
 現在は、[release please](https://github.com/googleapis/release-please)との併用を前提に作成している。
 [SmartHRのリリースノートの書き方](https://smarthr.design/products/contents/help-center/releasenotes/)を参考に仕様を作成している
 
